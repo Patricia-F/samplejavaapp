@@ -1,4 +1,4 @@
 
 
 Sample Java Applicaiton V1.2
-NO COMMITS
+1 COMMIT
